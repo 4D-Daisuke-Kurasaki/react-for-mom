@@ -1,0 +1,9 @@
+package.json
+node_modules
+dist
+.editorconfig
+.gitignore
+.eslintignore
+.prettierignore
+.node-version
+.nvmrc
